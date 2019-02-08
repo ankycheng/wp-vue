@@ -1,6 +1,7 @@
 # WP Vue
 
 [![Build Status](https://travis-ci.org/alexmacarthur/wp-vue.svg?branch=master)](https://travis-ci.org/alexmacarthur/wp-vue)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87ff7587-b7b2-4828-965c-97e606b81013/deploy-status)](https://app.netlify.com/sites/wp/deploys)
 
 This is just a simple Vue blog that displays posts from a WordPress REST API endpoint. Clone or fork this sucka & rip it apart to suit your own needs. If you have ideas to make it better for everyone else, contribute!
 
